@@ -1,0 +1,12 @@
+Explain what a token is used for.
+* A token is used for authenticating a user and granting them access to private information such as login credentials. 
+
+What steps can you take in your web apps to keep your data secure?
+* I can include <PrivateRoute /> in my web apps to protect my user’s data from the public. 
+
+Describe how web servers work.
+* A web server processes incoming network requests over HTTP and several other related protocols. The primary function of a web server is to store, process and deliver web pages to clients. The communication between client and server takes place using the Hypertext Transfer Protocol (HTTP).
+
+Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+* PUT: is the “U” in CRUD, and it stands for UPDATE. 
+* DELETE HTTP request method is the “D” in CRUD. We use this to delete or destroy data that lives away from our webpage. 
