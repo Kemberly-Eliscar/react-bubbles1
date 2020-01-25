@@ -11,7 +11,9 @@ const PrivateRoute = ({ component: Component, ...rest }) => {
                 } else {
                     return <Redirect to="/" />;
                 }
-               }}
+            }}
         />       
-    )
-}
+    );
+};
+
+export default PrivateRoute;
